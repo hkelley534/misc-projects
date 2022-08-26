@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"languagestudygui","l":"LanguageStudy"},{"p":"languagestudygui","l":"Main"},{"p":"languagestudygui","l":"Window"},{"p":"languagestudygui","l":"Word"}];updateSearchResults();
